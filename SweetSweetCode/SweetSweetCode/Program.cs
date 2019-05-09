@@ -11,6 +11,7 @@ namespace SweetSweetCode
         static void Main(string[] args)
         {
             Console.WriteLine("bloop");
+            Console.WriteLine("Will there be a conflict here?");
         }
     }
 }
