@@ -10,6 +10,7 @@ namespace SweetSweetCode
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("bloop");
         }
     }
 }
